@@ -15,7 +15,7 @@ const config = {
   site_description: 'Software solutions company for medical professionals',
 
   // Your website's URL, used for sitemap
-  site_url: 'trident-med.com',
+  site_url: 'https://trident-med.com',
 
   // Google Analytics tracking ID (leave blank to disable)
   googleAnalyticsUA: 'UA-128220087-1',
