@@ -21,25 +21,25 @@ async function runSetup() {
       type: 'input',
       name: 'site_name',
       message: 'What is the name of your website?',
-      initial: 'Static Site Boilerplate'
+      initial: 'Trident Software Solutions, llc.'
     },
     {
       type: 'input',
       name: 'site_description',
       message: 'What is a description of your website?',
-      initial: 'A modern boilerplate for static website development'
+      initial: 'Software solutions company for medical professionals'
     },
     {
       type: 'input',
       name: 'site_url',
       message: 'What is the live URL for your website?',
-      hint: 'http://yourwebsite.com'
+      hint: 'https://trident-med.com'
     },
     {
       type: 'input',
       name: 'google_analytics',
       message: 'What is your Google Analytics Tracking ID?',
-      hint: 'UA-XXXXX-Y'
+      hint: 'UA-128220087-1'
     },
     {
       type: 'select',
